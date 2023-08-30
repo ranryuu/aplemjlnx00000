@@ -1,0 +1,16 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "aplemj.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "manifest_version": 3,
+   "name": "Apple Color Emoji",
+   "update_url": "https://127.0.0.1/service/update2/crx",
+   "version": "0.5",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/AppleColorEmoji.ttf" ]
+   } ]
+}
