@@ -20,9 +20,12 @@ let style=`
 
 }
 .html5-video-player a,
-yt-formatted-string,
+div#text-container.style-scope.ytd-channel-name,
+span.style-scope.yt-formatted-string,
+/*yt-formatted-string,*/
 yt-formatted-string#content-text.style-scope.ytd-backstage-post-renderer,
-div#content.style-scope.ytd-channel-tagline-renderer
+div#content.style-scope.ytd-channel-tagline-renderer,
+a#video-title.yt-simple-endpoint.style-scope.ytd-video-renderer
 {font-family: Apple Color Emoji, Roboto, Arial, sans-serif !important;}
 `
 /*
