@@ -25,7 +25,8 @@ span.style-scope.yt-formatted-string,
 /*yt-formatted-string,*/
 yt-formatted-string#content-text.style-scope.ytd-backstage-post-renderer,
 div#content.style-scope.ytd-channel-tagline-renderer,
-a#video-title.yt-simple-endpoint.style-scope.ytd-video-renderer
+a#video-title.yt-simple-endpoint.style-scope.ytd-video-renderer,
+.style-scope.ytd-watch-metadata
 {font-family: Apple Color Emoji, Roboto, Arial, sans-serif !important;}
 `
 /*
