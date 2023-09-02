@@ -23,6 +23,8 @@ let style=`
 div#text-container.style-scope.ytd-channel-name,
 span.style-scope.yt-formatted-string,
 /*yt-formatted-string,*/
+#video-title.style-scope.ytd-rich-grid-media,
+a yt-formatted-string#video-title.style-scope.ytd-rich-grid-media,
 yt-formatted-string#content-text.style-scope.ytd-backstage-post-renderer,
 div#content.style-scope.ytd-channel-tagline-renderer,
 a#video-title.yt-simple-endpoint.style-scope.ytd-video-renderer,
