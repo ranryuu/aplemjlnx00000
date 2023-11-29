@@ -19,17 +19,23 @@ let style=`
 	font-display: swap;
 
 }
+.style-scope.yt-live-chat-text-message-renderer,
+.style-scope.yt-live-chat-author-chip,
+yt-formatted-string,
 .html5-video-player a,
 div#text-container.style-scope.ytd-channel-name,
 span.style-scope.yt-formatted-string,
-/*yt-formatted-string,*/
-#video-title.style-scope.ytd-rich-grid-media,
+.style-scope.ytd-backstage-post-renderer,
+#video-title.style-scope.ytd-rich-grid-media
 a yt-formatted-string#video-title.style-scope.ytd-rich-grid-media,
 yt-formatted-string#content-text.style-scope.ytd-backstage-post-renderer,
 div#content.style-scope.ytd-channel-tagline-renderer,
 a#video-title.yt-simple-endpoint.style-scope.ytd-video-renderer,
-.style-scope.ytd-watch-metadata
+.style-scope.ytd-watch-metadata,
+yt-formatted-string.message.style-scope.ytd-notification-renderer
+
 {font-family: Apple Color Emoji, Roboto, Arial, sans-serif !important;}
+
 `
 /*
 +
@@ -61,4 +67,5 @@ https://github.com/perguto/Country-Flag-Emojis-for-Windows
 https://stackoverflow.com/questions/30470079/emoji-value-range
 https://gist.github.com/aabed/63c4bfde6a510395657a2ee3383716dd
 https://github.com/samuelngs/apple-emoji-linux/releases
+https://wakamaifondue.com/beta/
 */
