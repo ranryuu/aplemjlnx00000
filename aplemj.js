@@ -21,18 +21,22 @@ let style=`
 }
 .style-scope.yt-live-chat-text-message-renderer,
 .style-scope.yt-live-chat-author-chip,
-yt-formatted-string,
 .html5-video-player a,
+.style-scope.ytd-expander
+/*
+yt-formatted-string,
 div#text-container.style-scope.ytd-channel-name,
 span.style-scope.yt-formatted-string,
 .style-scope.ytd-backstage-post-renderer,
-#video-title.style-scope.ytd-rich-grid-media
+#video-title.style-scope.ytd-rich-grid-media,
 a yt-formatted-string#video-title.style-scope.ytd-rich-grid-media,
 yt-formatted-string#content-text.style-scope.ytd-backstage-post-renderer,
 div#content.style-scope.ytd-channel-tagline-renderer,
 a#video-title.yt-simple-endpoint.style-scope.ytd-video-renderer,
 .style-scope.ytd-watch-metadata,
+#video-title.ytd-grid-playlist-renderer,
 yt-formatted-string.message.style-scope.ytd-notification-renderer
+*/
 
 {font-family: Apple Color Emoji, Roboto, Arial, sans-serif !important;}
 
